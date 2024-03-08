@@ -1,0 +1,81 @@
+<!-- Jeff Abbott Week6 Assignment 12/5/21 -->
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <header>
+  </header>
+
+  <nav>
+  </nav>
+
+  <main>
+
+    <!-- Register form to collect personal data to send to next page to create username and password -->
+    <form id="registerForm" class="loginForm center" action="sign_in3.html" method="post">
+
+      <div class="">
+        <label for="">First Name</label>
+        <input id="firstName" type="text" name="" value=""><br />
+      </div>
+
+      <div class="">
+        <label for="">Last Name</label>
+        <input id="lastName" type="text" name="" value=""><br />
+      </div>
+
+      <div class="">
+        <label for="">Street Address</label>
+        <input id="street" type="text" name="" value=""><br />
+      </div>
+
+      <div class="">
+        <label for="">City</label>
+        <input id="city" type="text" name="" value=""><br />
+      </div>
+
+      <div class="">
+        <label for="" style="display: inline">State</label>
+        <input id="state" style="display:inline-block; width:25%" type="text" name="" value="">
+      </div>
+
+      <div class="">
+        <label for="">Zipcode</label>
+        <input id="zipCode" style="display:inline-block; width:25%" type="text" name="" value=""><br />
+      </div>
+
+      <div class="">
+        <label for="">Email</label>
+        <input id="email" type="email" name="" value=""><br />
+      </div>
+
+      <div class="center">
+        <label for="">Phone</label>
+        <input id="areaCode" style="width: 8%" type="text" name="" value="">
+        <input id="phonePrefix" style="width: 8%" type="text" name="" value="">-
+        <input id="phoneNum" style="width: 13%" type="text" name="" value="">
+      </div>
+
+
+      <input type="submit" name="" value="Submit" onclick="register()">
+
+    </form>
+
+  </main>
+
+  <footer>
+  </footer>
+
+  <script type="text/javascript" src="js/register.js"></script>
+
+</body>
+
+</html>

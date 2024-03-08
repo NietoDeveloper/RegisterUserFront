@@ -1,0 +1,77 @@
+//CSS template
+body, header, nav, main, footer, h1, div, img, article, section, aside {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.txtCenter {
+  text-align: center;
+}
+
+.maxWidth {
+  width: 100%;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col-25 {
+  width: 25%;
+}
+
+.col-75 {
+  width: 75%
+}
+
+.label {
+  display: inline;
+}
+
+.inputDisplay {
+  display: inline-block;
+  margin-right: 2px;
+}
+
+.userInfo {
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+#infoDisplay {
+  display: none;
+}
+
+/* mobile styles */
+.loginForm {
+  border: 2px solid black;
+  width: 33%;
+}
+
+.asterisk {
+  padding: 3px;
+  margin-top: 2px;
+  width: 90%;
+  font-size: 12px;
+}
+
+input {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+/* tablet styles */
+@media screen and (min-width: 480px) {}
+
+/* Desktop styles */
+@media screen and (min-width: 767px) {}
