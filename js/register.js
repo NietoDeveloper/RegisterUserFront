@@ -8,7 +8,7 @@ function register() {
   let prefix = parseInt(document.getElementById('phonePrefix').value);
   let phoneNum = parseInt(document.getElementById('phoneNum').value);
 
-  if (Number.isNaN(areaCode) == true || Number.isNaN(prefix) == true || Number.isNaN(phoneNum) == true || Number.isNaN(zipCode) == true ) {
+  if (Number.isNaN(areaCode) == true || Number.isNaN(prefix) == true || Number.isNaN(phoneNum) == true || Number.isNaN(zipCode) == true) {
 
     window.alert("Please enter a valid zipcode and phone number");
     //stay on sign_in2.html page

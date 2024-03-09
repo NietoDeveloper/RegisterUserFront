@@ -1,5 +1,14 @@
-//CSS template
-body, header, nav, main, footer, h1, div, img, article, section, aside {
+template body,
+header,
+nav,
+main,
+footer,
+h1,
+div,
+img,
+article,
+section,
+aside {
   margin: 0;
   padding: 0;
   border: 0;
