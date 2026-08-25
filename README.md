@@ -312,9 +312,3 @@ npx live-server
 
 - Edit `css/style.css` to adjust styling.
 - Edit `js/main.js` to change validation rules or connect the form to your own API.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a
