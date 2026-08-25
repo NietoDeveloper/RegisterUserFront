@@ -54,27 +54,3 @@ RegisterUserFront/
 ├── css/                      ← Stylesheets
 │   └── style.css              ← Layout, form styling, responsive rules
 │
-├── js/                        ← Application logic
-│   └── main.js                 ← DOM handling, event listeners, form validation
-│
-├── index.html                 ← Entry point (registration form markup)
-├── LICENSE                    ← MIT License
-└── README.md
-```
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-| Layer | Technology | Purpose |
-|:------|:-----------|:--------|
-| 🧱 **Structure** | HTML5 | Semantic markup for the registration form |
-| 🎨 **Styling** | CSS3 | Modular, framework-free styling |
-| ⚙️ **Logic** | Vanilla JavaScript (ES6+) | DOM manipulation, event handling, validation |
-| 🐙 **Versioning** | Git & GitHub | Source control and collaboration |
-
-</div>
-
-No frameworks, no bundlers, no `node_modules` — just open the browser and code
