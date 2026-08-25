@@ -244,11 +244,4 @@ RegisterUserFront/
 │   └── main.js                ← DOM handling, event listeners, form validation
 │
 ├── index.html                ← Entry point (registration form markup)
-├── LICENSE                   ← MIT License
-└── README.md
-```
-
----
-
-## 🛠️ Technology Stack
 
