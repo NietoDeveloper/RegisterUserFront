@@ -158,27 +158,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 <div align="center">
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-NietoDeveloper-000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NietoDeveloper)
-[![MIT License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)](https://github.com/NietoDeveloper/RegisterUserFront/blob/main/LICENSE)
-[![#1 Colombia](https://img.shields.io/badge/🥇_%231_Committer-Colombia-FFD700?style=for-the-badge)](https://committers.top/colombia)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   "A clean vanilla JS foundation — simple to study,               ║
-║    simple to reuse, simple to extend."                            ║
-║                                                                    ║
-║                               — NietoDeveloper Standard            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-*RegisterUserFront — Built by **NietoDeveloper · Manuel Nieto***
-
-*Developed with technical rigor in* 📍 **Bogotá, Colombia** 🇨🇴
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
+[![MIT License](https://img.shields.io/badge/License-MIT-FFD700?
