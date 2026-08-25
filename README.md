@@ -252,10 +252,3 @@ RegisterUserFront/
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
-| Layer | Technology | Purpose |
-|:------|:-----------|:--------|
-| 🧱 **Structure** | HTML5 | Semantic markup for the registration form |
-| 🎨 **Styling** | CSS3 | Modular, framework-free styling |
-| ⚙️ **Logic** | Vanilla JavaScript (ES6+) | DOM manipulation, event handling, 
