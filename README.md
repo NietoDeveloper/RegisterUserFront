@@ -317,6 +317,5 @@ npx live-server
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a suggestion fopro
-
+Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a suggestion fop
 ## 
