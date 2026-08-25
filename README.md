@@ -308,7 +308,3 @@ No install, no build step. Simply open `index.html` in your browser, or serve it
 npx live-server
 ```
 
-**Step 3 — Customize**
-
-- Edit `css/style.css` to adjust styling.
-- Edit `js/main.js` to change validation rules or connect the form to your own API.
