@@ -70,7 +70,7 @@ RegisterUserFront/
 <div align="center">
 
 | Layer | Technology | Purpose |
-|:------|:-----------|:--------|
+| :------ | :----------- | :-------- |
 | 🧱 **Structure** | HTML5 | Semantic markup for the registration form |
 | 🎨 **Styling** | CSS3 | Modular, framework-free styling |
 | ⚙️ **Logic** | Vanilla JavaScript (ES6+) | DOM manipulation, event handling, validation |
@@ -166,7 +166,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 <div align="center">
 
 | Resource | Link |
-|:---------|:-----|
+| :--------- | :----- |
 | 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
 | 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
 | 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/colombia) |
