@@ -266,13 +266,3 @@ RegisterUserFront/
 No frameworks, no bundlers, no `node_modules` — just open the browser and code.
 
 ---
-
-## ✨ Purpose & Use Cases
-
-```mermaid
-flowchart LR
-    A([📄 Clone Repo]) --> B[Open index.html]
-    B --> C{Use Case}
-    C -->|Learn| D[🎓 Practice DOM & Validation]
-    C -->|Reuse| E[🧩 Bootstrap New Project]
-    C -->|Extend| F[🔌 Connect to Your Backend]
