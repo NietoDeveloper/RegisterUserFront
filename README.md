@@ -300,5 +300,3 @@ cd RegisterUserFront
 ```
 
 **Step 2 — Open it**
-
-No install, no build step. Simply open `index.html` in your browser, or serve it locally for live reload:
