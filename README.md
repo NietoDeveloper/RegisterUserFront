@@ -210,8 +210,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
     <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FRegisterUserFront-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
   <a href="https://github.com/NietoDeveloper">
-    <img src="https://img.shields.io/badge/🥇_%231_Committer-Colombia-FFD700?style=for-the-badge"/>
-  </a>
-</p>
-
-<br/>
