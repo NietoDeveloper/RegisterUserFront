@@ -305,6 +305,3 @@ No install, no build step. Simply open `index.html` in your browser, or serve it
 
 ```bash
 # Optional: serve with any static file server
-npx live-server
-```
-
