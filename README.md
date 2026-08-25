@@ -191,4 +191,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=REGISTER%20USER%20FRONT&fontSize=62&fontColor=FFD700&fontAlignY=42&desc=Vanilla%20JS%20Study%20%26%20Reusable%20Template%20·%20Zero%20Dependencies&descAlignY=62&descColor=DCDCDC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=REGISTER%20USER%20FRONT&fontSize=62&fontColor=FFD700&fontAlignY=42&
