@@ -332,5 +332,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 <div align="center">
 
 | Resource | Link |
-|:---------|:-----|
-| 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](per) |
+|:---------|:-----
