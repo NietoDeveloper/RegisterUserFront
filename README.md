@@ -215,8 +215,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 </p>
 
 <br/>
-
-> **RegisterUserFront** — *A minimal, dependency-free vanilla JavaScript template for building user registration interfaces.*
->
-> Built for learning, teaching, and reuse: plain HTML, modular CSS, and framework-free JS. No bundlers, no package manager, no build step — clone it, open it, and start coding.
->
