@@ -360,8 +360,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 *RegisterUserFront t by **NietoDeveloper · Manuel Nieto***
 
-*Developed with tel rigor in* 📍 **Bogotá, Colombia** 🇨🇴
-
+*Developed with tel rigor in* 📍 **Bogotá
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=fadeIn" width="100%"/>
