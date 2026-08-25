@@ -356,13 +356,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ║                                                                    ║
 ║                               — NietoDeveloper Standard             ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
 
-*RegisterUserFront t by **NietoDeveloper · Manuel Nieto***
-
-*Developed with tel rigor in* 📍 **Bogotá
-<br/>
-
-
-
-</div>
