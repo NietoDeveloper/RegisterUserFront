@@ -335,6 +335,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 |:---------|:-----|
 | 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
 | 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
-| 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/colombia) |
-
-<
