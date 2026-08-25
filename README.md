@@ -263,6 +263,3 @@ RegisterUserFront/
 
 </div>
 
-No frameworks, no bundlers, no `node_modules` — just open the browser and code.
-
----
