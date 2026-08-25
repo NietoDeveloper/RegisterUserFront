@@ -228,7 +228,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ## 📖 About
 
-**RegisterUserFront** is a lightweight, framework-free starter template for a user registration front-end. It's designed as both a **study resource** (to practice DOM manipulation, form handling, and client-side validation in plain JavaScript) and a **reusable base template** for quickly bootstrapping new front-end projects without the overhead of a framework or build tool.
-
----
-
+**RegisterUserFront** is a lightweight, framework-free starter template for a
