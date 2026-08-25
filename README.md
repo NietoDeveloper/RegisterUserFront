@@ -143,26 +143,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 | Resource | Link |
 |:---------|:-----|
 | 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
-| 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
-| 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/colombia) |
-
-</div>
-
----
-
-
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   "A clean vanilla JS foundation — simple to study,                ║
-║    simple to reuse, simple to extend."                             ║
-║                                                                    ║
-║                               — NietoDeveloper Standard             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-*RegisterUserFront — Built by **NietoDeveloper · Manuel Nieto***
+| y **NietoDeveloper · Manuel Nieto***
 
 *Developed with technical rigor in* 📍 **Bogotá, Colombia** 🇨🇴
 
