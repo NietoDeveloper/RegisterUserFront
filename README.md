@@ -237,11 +237,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ```text
 RegisterUserFront/
 │
-├── css/                     ← Stylesheets
-│   └── style.css             ← Layout, form styling, responsive rules
-│
-├── js/                       ← Application logic
-│   └── main.js                ← DOM handling, event listeners, form validation
-│
-├── index.html                ← Entry point (registration form markup)
-
