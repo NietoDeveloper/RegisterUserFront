@@ -115,20 +115,3 @@ cd RegisterUserFront
 
 **Step 2 — Open it**
 
-No install, no build step. Simply open `index.html` in your browser, or serve it locally for live reload:
-
-```bash
-# Optional: serve with any static file server
-npx live-server
-```
-
-**Step 3 — Customize**
-
-- Edit `css/style.css` to adjust styling.
-- Edit `js/main.js` to change validation rules or connect the form to your own API.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a suggestion for improving the template.
