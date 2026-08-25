@@ -258,8 +258,4 @@ RegisterUserFront/
 |:------|:-----------|:--------|
 | 🧱 **Structure** | HTML5 | Semantic markup for the registration form |
 | 🎨 **Styling** | CSS3 | Modular, framework-free styling |
-| ⚙️ **Logic** | Vanilla JavaScript (ES6+) | DOM manipulation, event handling, validation |
-| 🐙 **Versioning** | Git & GitHub | Source control and collaboration |
-
-</div>
-
+| ⚙️ **Logic** | Vanilla JavaScript (ES6+) | DOM manipulation, event handling, 
