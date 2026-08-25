@@ -276,6 +276,3 @@ flowchart LR
     C -->|Learn| D[🎓 Practice DOM & Validation]
     C -->|Reuse| E[🧩 Bootstrap New Project]
     C -->|Extend| F[🔌 Connect to Your Backend]
-
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style C fill:#0a0a0a,color:#FFD700,stroke:#FFD700
