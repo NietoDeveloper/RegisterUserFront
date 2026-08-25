@@ -232,8 +232,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-## 📂 Project Structure
-
-```text
-RegisterUserFront/
-│
