@@ -358,7 +358,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-*RegisterUserFront — Built by **NietoDeveloper · Manuel Nieto***
+*RegisterUserFront t by **NietoDeveloper · Manuel Nieto***
 
 *Developed with tel rigor in* 📍 **Bogotá, Colombia** 🇨🇴
 
