@@ -150,12 +150,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-<div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-NietoDeveloper-000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NietoDeveloper)
-[![MIT License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)](./LICENSE)
-
-<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
