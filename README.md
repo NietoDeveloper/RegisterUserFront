@@ -330,6 +330,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ## 🔗 Links & Resources
 
 <div align="center">
-
-| Resource | Link |
-|:---------|:-----
