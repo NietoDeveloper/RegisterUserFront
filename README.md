@@ -184,11 +184,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   "A clean vanilla JS foundation — simple to study,               ║
-║    simple to reuse, simple to extend."                            ║
-║                                                                    ║
-║                               — NietoDeveloper Standard            ║
+║                                                                  ║
+║   "A clean vanilla JS foundation — simple to study,              ║
+║    simple to reuse, simple to extend."                           ║
+║                                                                  ║
+║                               — NietoDeveloper Standard          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
