@@ -220,12 +220,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 >
 > Built for learning, teaching, and reuse: plain HTML, modular CSS, and framework-free JS. No bundlers, no package manager, no build step — clone it, open it, and start coding.
 >
-> *Study Template · Fork-Friendly · Built in Bogotá 🇨🇴*
-
-</div>
-
----
-
-## 📖 About
-
-**RegisterUserFront** is a lightweight, framework-free starter template for a
