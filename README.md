@@ -279,7 +279,3 @@ flowchart LR
 
     style A fill:#FFD700,color:#000,stroke:#FFD700
     style C fill:#0a0a0a,color:#FFD700,stroke:#FFD700
-    style D fill:#DCDCDC,color:#000
-    style E fill:#DCDCDC,color:#000
-    style F fill:#000,color:#FFD700,stroke:#FFD700
-```
