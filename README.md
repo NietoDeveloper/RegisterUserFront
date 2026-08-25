@@ -204,9 +204,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
   <img src="https://img.shields.io/badge/Dependencies-None-00D26A?style=for-the-badge&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/NietoDeveloper/RegisterUserFront">
-    <img src="https://img.shields.io/badge/📂_Source-NietoDeveloper%2FRegisterUserFront-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-  </a>
-  <a href="https://github.com/NietoDeveloper">
