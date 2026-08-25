@@ -97,21 +97,3 @@ flowchart LR
     style E fill:#DCDCDC,color:#000
     style F fill:#000,color:#FFD700,stroke:#FFD700
 ```
-
-- 🎓 **Study template** — a clean reference for practicing vanilla JS form handling and validation patterns.
-- 🧩 **Starter template** — fork it as the front-end base for any registration flow.
-- 🔌 **Backend-agnostic** — plug in any REST API endpoint from `js/main.js` without extra tooling.
-
----
-
-## 🚀 Quick Start
-
-**Step 1 — Clone the repository**
-
-```bash
-git clone https://github.com/NietoDeveloper/RegisterUserFront.git
-cd RegisterUserFront
-```
-
-**Step 2 — Open it**
-
