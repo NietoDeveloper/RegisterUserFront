@@ -77,23 +77,4 @@ RegisterUserFront/
 
 </div>
 
-No frameworks, no bundlers, no `node_modules` — just open the browser and code.
-
----
-
-## ✨ Purpose & Use Cases
-
-```mermaid
-flowchart LR
-    A([📄 Clone Repo]) --> B[Open index.html]
-    B --> C{Use Case}
-    C -->|Learn| D[🎓 Practice DOM & Validation]
-    C -->|Reuse| E[🧩 Bootstrap New Project]
-    C -->|Extend| F[🔌 Connect to Your Backend]
-
-    style A fill:#FFD700,color:#000,stroke:#FFD700
-    style C fill:#0a0a0a,color:#FFD700,stroke:#FFD700
-    style D fill:#DCDCDC,color:#000
-    style E fill:#DCDCDC,color:#000
-    style F fill:#000,color:#FFD700,stroke:#FFD700
-```
+No frameworks, no bundlers, no `node_modules` — just open the browser and code
