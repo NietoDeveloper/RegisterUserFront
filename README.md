@@ -132,21 +132,3 @@ npx live-server
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a suggestion for improving the template.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](https://github.com/NietoDeveloper/RegisterUserFront/blob/main/LICENSE) file for details.
-
----
-
-## 🔗 Links & Resources
-
-<div align="center">
-
-| Resource | Link |
-|:---------|:-----|
-| 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
-| 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
-| 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/
