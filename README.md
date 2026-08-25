@@ -183,12 +183,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 
 
-
-
-
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=REGISTER%20USER%20FRONT&fontSize=62&fontColor=FFD700&fontAlignY=42&
