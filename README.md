@@ -149,13 +149,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](https:/
 |:---------|:-----|
 | 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
 | 👤 **Developer Profile** | [github.com/NietoDeveloper](https://github.com/NietoDeveloper) |
-| 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/colombia) |
-
-</div>
-
----
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-NietoDeveloper-000?style=for-the-badge&logo=github&logoColor=FFD700)](https://github.com/NietoDeveloper)
-[![MIT License](https://img.shields.io/badge/License-MIT-FFD700?
+| 🏆 **#1 Colombia Ranking** | [committers.top/colombia](https://committers.top/
