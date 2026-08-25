@@ -119,28 +119,3 @@ npx live-server
 
 **Step 3 — Customize**
 
-- Edit `css/style.css` to adjust styling.
-- Edit `js/main.js` to change validation rules or connect the form to your own API.
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to fork this repository, open a pull request, or file an issue if you spot a bug or have a suggestion for improving the template.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🔗 Links & Resources
-
-<div align="center">
-
-| Resource | Link |
-|:---------|:-----|
-| 📂 **GitHub Repository** | [github.com/NietoDeveloper/RegisterUserFront](https://github.com/NietoDeveloper/RegisterUserFront) |
-| y **N
